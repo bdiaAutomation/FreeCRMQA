@@ -1,9 +1,10 @@
  git tutorial
 
-git config --local alias.ci commit
+git config --local alias.ci commit # Créer un alias ci qui fait référence à commit
 
 git config --global alias.st status 
 git config --global alias.co checkout 
 git config --global alias.br branch 
 git config --global alias.up rebase 
 git config --global alias.ci commit # Ajouter des alias
+ Cheking diff
