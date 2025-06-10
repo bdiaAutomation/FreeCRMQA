@@ -8,3 +8,4 @@ git config --global alias.br branch
 git config --global alias.up rebase 
 git config --global alias.ci commit # Ajouter des alias
  Cheking diff
+ Je teste encore le stash sur le fichier command.txt
